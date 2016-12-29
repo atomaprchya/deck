@@ -1,0 +1,261 @@
+/*Homepage*/
+/*@import url('https://fonts.googleapis.com/css?family=Concert+One');
+@import url('https://fonts.googleapis.com/css?family=Raleway');*/
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+/* 
+01. BODY GENERAL _____________________________________________________________ */
+body, .sport-rs-text{
+	font-family: 'Nunito' !important;
+	font-weight: normal;
+	-webkit-font-smoothing: antialiased; 
+	font-smooth: always; 
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+/* 
+02. MAIN HEADINGS ____________________________________________________________ */
+h1, h2, h3, .sport-rs-heading, cite, .price-cell:first-child p span, .big-count{
+	font-family: 'Nunito';
+	font-weight: normal;
+}
+   
+   
+/* 
+03. NAVIGATION _______________________________________________________________ */
+.nav a,  #navigation a, h4, h5, h6, .price h3 span, .price-cell:first-child, table th, .event-table .evt-date,
+.evt-price, .pagination,  .reply, .big-count div span {
+	font-family: 'Nunito';
+	font-weight: normal;
+}
+
+
+/* 
+04. LOGO AS TEXT ____________________________________________________________ */
+.logo.text{
+	font-family: 'Nunito';
+	font-weight: normal;
+}
+
+
+/* 
+05. BOLD TEXT _______________________________________________________________ */  
+strong, b, .breadcrumb-wrapper *, #responsive-menu-button, .corner, .date, .read-more, ul.sitemap > li > a,
+#recaptcha_audio_play_again, #recaptcha_audio_download, a.toggle-btn, a.accordion-btn, .time-table td:before, .time-table tr td:first-child,
+.event-table td:before, .mobile-table td:before{
+	font-family: 'Nunito';
+	font-weight: normal;
+}
+
+
+/* 
+05. BUTTONS TEXT _______________________________________________________________ */  
+.btn, .btn-2, .btn-3, input[type=button], input[type=submit], button, .option-set li a, .tab-nav li,  h3.v_nav{
+	font-family: 'Nunito';
+	font-weight: normal;
+}   
+
+
+/* 
+06. QUOTE TEXT _______________________________________________________________ */ 
+blockquote{
+	font-family: 'Nunito';
+	font-weight: normal;
+}
+
+
+/* 
+07. MED WEIGHT TEXT _______________________________________________________________ */ 
+.active-time, .event-table td, .tooltipster-content .tt-date {
+	font-family: 'Nunito';
+	font-weight: normal;
+}
+
+
+
+/* FONT AWESOME */
+.fa, a.fa, .read-more:before, .meta a:before, ul.comments li .more:before, .paging .col-1-2.prev:before, .paging .col-1-2.next:after,
+ .outter-wrapper .wrapper ul.social-links li a, .corner-date:before, .date:before, ul.sitemap li li a:before,
+a.toggle-btn:before,  a.accordion-btn:before{
+	font-family: "FontAwesome";
+	font-weight: normal;
+}
+
+a:hover, 
+ul.tab-nav li:hover,
+ul.tab-nav li.active,
+h3.v_nav.v_active,
+h3.v_nav:hover,
+.read-more:before,
+blockquote cite,
+ul.sitemap li li a:before,
+.list-1 li:before, .list-2 li:before, .list-3 li:before, .list-4 li:before,
+#recaptcha_audio_play_again:before, #recaptcha_audio_download:before,
+.toggle-btn.active, .accordion-btn.active, a.toggle-btn:before,  a.accordion-btn:before,
+.rating > input:checked ~ label, .rating:not(:checked) > label:hover, 
+.rating:not(:checked) > label:hover ~ label,
+.rating > input:checked + label:hover,
+.rating > input:checked + label:hover ~ label,
+.rating > input:checked ~ label:hover,
+.rating > input:checked ~ label:hover ~ label,
+.rating > label:hover ~ input:checked ~ label,
+.star-rating > span:hover:before,
+.star-rating > span:hover ~ span:before,
+.star-rating.example span:nth-child(n+2):before,
+.price h3,  .price-cell:first-child p span, .price-cell:after,
+.boxy ul.social-link a:hover,
+.boxy .inner-box h5, .active-time a, .tooltip.fa,
+.event-table td.current-day b:first-child,
+.tooltipster-content .tt-date, .evt-price,
+ul.pagination li a.active,
+.widget-list.option-set li a.selected,
+.widget-list.option-set li a:hover,
+.paralax-block .big-count div,
+.big-count div span {
+	color: #FFA500 !important;	
+}
+
+
+/*.nav a, #navigation a, h4, h5, h6, .price h3 span, .price-cell:first-child, table th, .event-table .evt-date, .evt-price, .pagination, .reply, .big-count div span {
+    font-family: 'Raleway' !important;
+    font-weight: normal;
+}*/
+.megamenu a{
+	font-weight: 100 !important;
+}
+
+
+.wrapper.clearfix.infoblock-row {
+    font-size: 20px;
+   
+    text-transform: uppercase;
+   
+}
+.wrapper.clearfix.infoblock-row {
+    
+}
+.wrapper.clearfix.infoblock-row div div {
+    border-right: 1px dashed #FFA500;
+}
+
+.mega-drop-down-container {
+    padding: 35px;
+}
+
+
+
+
+/*Homepage*/
+
+.base-wrapper{
+	background: #82837e !important;
+}
+
+.pre-header-area, .pre-header-area ul{
+	background: #82837e !important;
+}
+
+
+/*Testimonials*/
+
+.customNavigation{
+	position: relative !important;
+	float: left !important;
+	margin-top: 0px;
+
+}
+.customNavigation a.prev{
+	position: relative !important;
+	float: left !important;
+	left: 0 !important;
+}
+
+.customNavigation a.next {
+    right: 0;
+    position: relative;
+    float: left;
+    margin-left: 10px;
+}
+
+/*Revert color #ffba00 to #de9649 and gold color is FFA500 black is 82837e*/
+
+
+
+/*Products page*/
+
+.icon-info-box i {
+    font-size: 56px;
+}
+
+.icon-info-box > div{
+	text-align: center;
+	padding: 20px 0px;
+}
+.abovefooterrow{
+	background: #FFA500;
+}
+.abovefooterrow .infoblock-row div div{
+	border-right: 1px dashed #FFFFFF !important;
+}
+.abovefooterrow .infoblock-row a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.abovefooterrow .infoblock-row a:hover{
+	color: #11793E !important;
+	
+}
+.belowslider .infoblock-row a{
+	
+	text-decoration: none;
+}
+
+.belowslider .infoblock-row a:hover{
+	color: #FFA500 !important;
+	
+}
+
+
+
+.footer-wrapper h3{
+	font-size: 19px !important;
+}
+.footer-wrapper ul li{
+	font-size: 13px !important;
+	color: #82837e !important;
+}
+
+
+
+
+hr.style1{
+	border-top: 1px dashed #8c8b8b;
+}
+hr.style2{
+	padding:0;
+	margin: 0;
+	border-top: 2px dashed #8c8b8b;
+}
+
+
+/*accordion product page*/
+
+.information-box-accordion ul{
+	padding-left: 0px !important;
+}
+
+.information-box-accordion .toggle li{
+	background: #DCDCDC;
+}
+.information-box-accordion .toggle li a{
+	color: #82837e;
+}
+.information-box-accordion .toggle li div p{
+	color: #82837e;
+}
+
+.decking-content {
+    text-align: center !important;
+}
